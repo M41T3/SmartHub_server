@@ -1,0 +1,21 @@
+{
+  "name": "smarthub",
+  "version": "0.0.1",
+  "description": "SMARTHUB node.js server as MQTT-Client and webserver to controll WS2812B strips via ESP8266",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMARTHUB",
+    "MQTT"
+  ],
+  "author": "Malte Mueller",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mqtt": "^2.14.0",
+    "serialport": "^6.0.4",
+    "socket.io": "^2.0.4"
+  }
+}
