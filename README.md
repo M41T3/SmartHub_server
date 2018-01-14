@@ -1,2 +1,2 @@
 # SmartHub_server
-SmarttHub Server
+SmartHub Server
